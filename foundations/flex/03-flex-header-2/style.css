@@ -53,4 +53,7 @@ ul {
   display: flex; /* added */
   gap: 16px; /* added */
   margin-right: auto; /* added */
+  padding-left: 16px;
+  margin-top: 0; /* added after viewing solution */
+  margin-bottom: 0; /* added after viewing solution */
 }
